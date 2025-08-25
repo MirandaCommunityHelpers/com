@@ -64,7 +64,7 @@
             <a href="{{url('/')}}" class="logo d-flex align-items-center me-auto">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
                 <img src="assets/img/mch/logo.png" alt="">  
-                <h1 class="sitename">MCH</h1>
+                <h1 class="sitename">MCH JAJAJAJA</h1>
             </a>
 
             <nav id="navmenu" class="navmenu">
@@ -831,5 +831,6 @@ Llama al +1-212-620-3418 si llamas desde el extranjero (marca 2 para español) <
 <script src="assets/js/main.js"></script>
 
 </body>
+
 
 </html>
